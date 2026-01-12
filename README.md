@@ -79,7 +79,7 @@ CREATE TABLE reservations (
 
 ▶️ How to Run the Project
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/online-reservation-system.git
+https://pranavreddyedula.github.io/online-reservation-system-web/ 
 
 2️⃣ Open in Eclipse
 
@@ -158,12 +158,10 @@ Sai Pranav Reddy
 🎓 Computer Science & Engineering
 🔗 GitHub: https://github.com/Pranavreddyedula
 
-🔗 LinkedIn: https://www.linkedin.com/in/pranavreddyedula/
 
 📜 License
 
 This project is for educational purposes only.
 
 
----
 
